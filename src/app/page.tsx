@@ -116,7 +116,7 @@ export default function LandingPage() {
         {
           id: "1",
           name: "Sarah Miller",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girls-taking-self-portrait-smart-phone-store_132075-12247.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girls-taking-self-portrait-smart-phone-store_132075-12247.jpg?_wi=1",
         },
         {
           id: "2",
@@ -136,7 +136,7 @@ export default function LandingPage() {
         {
           id: "5",
           name: "Jessica Lee",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girls-taking-self-portrait-smart-phone-store_132075-12247.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girls-taking-self-portrait-smart-phone-store_132075-12247.jpg?_wi=2",
         },
       ]}
       cardTitle="What Our Clients Say"
